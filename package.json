@@ -1,0 +1,14 @@
+{
+  "name": "blank-solution",
+  "version": "1.0.0",
+  "description": "Blank solution ready to start TDD for technical tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
